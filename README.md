@@ -3,9 +3,10 @@
 and combining them into one program 
 so that it has several sections and each section has several others.</p>
 <hr>
-Explain the unified project in detail
-The first thing that is turned on opens a window 
-It includes the name of the department, a task, and options:
-1-theoretical aspect 
+<h1>Explain the unified project in detail</h1>
+<h2>The first thing that is turned on opens a window 
+It includes the name of the department, a task, and options:</h2>
+<h3>1-theoretical aspect 
 2-the practical side 
 3-exit
+</h3>
